@@ -1,0 +1,14 @@
+/Users/michaeldanaher/VSCode/C#/TicTacToe/obj/Debug/net8.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaeldanaher/VSCode/C#/TicTacToe/obj/Debug/net8.0/TicTacToe.AssemblyInfoInputs.cache
+/Users/michaeldanaher/VSCode/C#/TicTacToe/obj/Debug/net8.0/TicTacToe.AssemblyInfo.cs
+/Users/michaeldanaher/VSCode/C#/TicTacToe/obj/Debug/net8.0/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/michaeldanaher/VSCode/C#/TicTacToe/bin/Debug/net8.0/TicTacToe
+/Users/michaeldanaher/VSCode/C#/TicTacToe/bin/Debug/net8.0/TicTacToe.deps.json
+/Users/michaeldanaher/VSCode/C#/TicTacToe/bin/Debug/net8.0/TicTacToe.runtimeconfig.json
+/Users/michaeldanaher/VSCode/C#/TicTacToe/bin/Debug/net8.0/TicTacToe.dll
+/Users/michaeldanaher/VSCode/C#/TicTacToe/bin/Debug/net8.0/TicTacToe.pdb
+/Users/michaeldanaher/VSCode/C#/TicTacToe/obj/Debug/net8.0/TicTacToe.dll
+/Users/michaeldanaher/VSCode/C#/TicTacToe/obj/Debug/net8.0/refint/TicTacToe.dll
+/Users/michaeldanaher/VSCode/C#/TicTacToe/obj/Debug/net8.0/TicTacToe.pdb
+/Users/michaeldanaher/VSCode/C#/TicTacToe/obj/Debug/net8.0/TicTacToe.genruntimeconfig.cache
+/Users/michaeldanaher/VSCode/C#/TicTacToe/obj/Debug/net8.0/ref/TicTacToe.dll
