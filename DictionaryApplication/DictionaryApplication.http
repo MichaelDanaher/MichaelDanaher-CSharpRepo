@@ -1,0 +1,6 @@
+@DictionaryApplication_HostAddress = http://localhost:5039
+
+GET {{DictionaryApplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
