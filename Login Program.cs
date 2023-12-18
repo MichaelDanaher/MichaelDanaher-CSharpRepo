@@ -7,7 +7,7 @@ namespace Program
         static string UsrName = "a";
         static string UsrPass = "a";
 
-        static void Main(string[]args)
+        static void Main()
             {
                 
             while (UsrName != "Admin" || UsrPass != "Password")
