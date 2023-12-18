@@ -4,7 +4,7 @@ namespace Game
 {
     class Hangman
     {
-        static void Main(string[] args)
+        static void Main()
         {
             bool Run = true;
 
@@ -57,7 +57,9 @@ namespace Game
                     // checks if all letters have been guessed
                     if (!Board.Contains('_'))
                     {
-                        break;
+                    Console.WriteLine($"You Win with {lifeCount} Lives Remaining! The Correct Word was \"{word}\"");
+                    Run = false;
+                    break;
                     }
 
                     // Gets input from the user
@@ -107,13 +109,6 @@ namespace Game
                 if (lifeCount == 0)
                 {
                     Console.WriteLine($"You Lose! The Word was \"{word}\"\n");
-                    break;
-                }
-
-                // checks if all leters have been guessed
-                if (!Board.Contains('_'))
-                {
-                    Console.WriteLine($"You Win with {lifeCount} Lives Remaining! The Correct Word was \"{word}\"");
                     break;
                 }
             }
