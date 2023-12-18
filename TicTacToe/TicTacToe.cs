@@ -19,7 +19,7 @@ namespace Program
 
             // tile and instructions
             Console.WriteLine("\t\t\t\t Tic Tac Toe");
-            Console.WriteLine("Use numbers 0-2.\nUp and down is a row and left and right is a column.");
+            Console.WriteLine("Use numbers 0-2.\nRow is right and left (left is 0)\nColumn is up and down (top is 0)");
 
             while (run)
             {
